@@ -1,18 +1,25 @@
-# DevLearn
-This is a learning project built as part of my frontend development training.  The design was AI-generated for practice purposes, and the implementation was done manually using HTML and CSS.
+## DevLearn Landing Page (Practice Project)
 
-Frontend learning update 🚀
+This project is a frontend practice project built while learning web development through freeCodeCamp.
 
-I recently completed a small practice project while learning frontend development through freeCodeCamp.
+### Project Overview
+- The UI design was generated with the help of ChatGPT (AI-assisted design).
+- I implemented the full layout and styling myself using HTML and CSS.
+- The goal was to practice translating a visual design into clean, working code.
 
-🧠 The UI design was generated with the help of ChatGPT as a visual reference.
-💻 I implemented the layout and styling myself using HTML and CSS.
+### What I Practiced
+- HTML semantic structure
+- CSS layout techniques (Flexbox / positioning)
+- Gradients and backgrounds
+- Responsive-friendly design decisions
+- Attention to spacing, typography, and alignment
 
-This project helped me practice:
-• Turning a design into real code
-• CSS layouts and gradients
-• Structuring clean HTML
-• Building consistency in UI
+### Tools & Technologies
+- HTML5
+- CSS3
+- ChatGPT (for design reference only)
+- freeCodeCamp (learning platform)
 
-I’m focusing on learning by building and improving step by step.
-More projects coming soon.
+### Notes
+This project is part of my learning journey.  
+Feedback and suggestions are welcome.
